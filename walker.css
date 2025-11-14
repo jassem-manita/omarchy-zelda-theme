@@ -1,0 +1,26 @@
+/* ────────────────────────────────────────────────────────────
+ * Zelda Theme for Walker - Calm & Chill
+ * Inspired by The Legend of Zelda
+ * ──────────────────────────────────────────────────────────── */
+
+@define-color selected-text #5A9BB8;
+@define-color text #A8C5D8;
+@define-color base #0F1419;
+@define-color border #5A9BB8;
+@define-color foreground #A8C5D8;
+@define-color background #0F1419;
+
+@define-color hover #1F2933;
+@define-color accent #5A9BB8;
+
+window .search-container,
+window .search {
+  background: alpha(@hover, 0.3);
+  color: @foreground;
+  border: 1px solid alpha(@border, 0.5);
+  border-radius: 12px;
+  padding: 8px 12px;
+  margin: 4px 0;
+  font-size: 14px;
+  font-weight: 500;
+}

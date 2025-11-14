@@ -1,0 +1,55 @@
+# ────────────────────────────────────────────────────────────
+# Zelda Theme for btop - Calm & Chill
+# Inspired by The Legend of Zelda
+# ────────────────────────────────────────────────────────────
+
+# Main background
+theme[main_bg]="#0F1419"
+
+# Main text color
+theme[main_fg]="#A8C5D8"
+
+# Title color
+theme[title]="#5A9BB8"
+
+# Highlight color
+theme[hi_fg]="#5A9BB8"
+
+# Selected item in menus
+theme[selected_bg]="#5A9BB8"
+theme[selected_fg]="#0F1419"
+
+# Inactive/disabled text
+theme[inactive_fg]="#4A5B6B"
+
+# Graph colors
+theme[graph_text]="#A8C5D8"
+theme[meter_bg]="#1A252F"
+theme[proc_misc]="#5A9BB8"
+theme[cpu_box]="#5A9BB8"
+theme[mem_box]="#5A9BB8"
+theme[net_box]="#5A9BB8"
+theme[proc_box]="#5A9BB8"
+
+# CPU graph gradient
+theme[cpu_start]="#3A7CA8"
+theme[cpu_mid]="#4D8BB7"
+theme[cpu_end]="#5A9BB8"
+
+# Memory graph gradient
+theme[mem_start]="#3A7CA8"
+theme[mem_mid]="#4D8BB7"
+theme[mem_end]="#5A9BB8"
+
+# Network graph colors
+theme[download_start]="#3A7CA8"
+theme[download_mid]="#4D8BB7"
+theme[download_end]="#5A9BB8"
+theme[upload_start]="#3A7CA8"
+theme[upload_mid]="#4D8BB7"
+theme[upload_end]="#5A9BB8"
+
+# Process colors
+theme[process_start]="#3A7CA8"
+theme[process_mid]="#4D8BB7"
+theme[process_end]="#5A9BB8"

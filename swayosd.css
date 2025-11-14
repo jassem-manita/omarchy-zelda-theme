@@ -1,0 +1,29 @@
+/* ────────────────────────────────────────────────────────────
+ * Zelda Theme for SwayOSD - Calm & Chill
+ * Inspired by The Legend of Zelda
+ * ──────────────────────────────────────────────────────────── */
+
+window {
+    background-color: rgba(15, 20, 25, 0.9);
+    border: 2px solid #5A9BB8;
+    border-radius: 0;
+}
+
+#container {
+    padding: 20px;
+}
+
+progressbar {
+    background-color: #1A252F;
+    color: #5A9BB8;
+}
+
+progressbar progress {
+    background-color: #5A9BB8;
+}
+
+label {
+    color: #A8C5D8;
+    font-family: "Liberation Sans", sans-serif;
+    font-size: 14px;
+}

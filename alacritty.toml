@@ -1,0 +1,38 @@
+# ────────────────────────────────────────────────────────────
+# Zelda Theme for Alacritty - Calm & Chill
+# Inspired by The Legend of Zelda
+# ────────────────────────────────────────────────────────────
+
+[colors]
+[colors.primary]
+background = "#020408"    # Much Darker Background
+foreground = "#8A9DAE"    # Dimmer Text
+dim_foreground = "#556675"
+
+[colors.cursor]
+text = "#020408"
+cursor = "#E05A2A"        # Darker Orange
+
+[colors.selection]
+text = "#020408"
+background = "#E05A2A"    # Darker Orange
+
+[colors.normal]
+black = "#000000"
+red = "#6B0E2F"
+green = "#1D4A48"         # Darker Teal
+yellow = "#B65D2E"
+blue = "#0A1E32"
+magenta = "#4A2A4A"
+cyan = "#1A4A5A"
+white = "#8A9DAE"
+
+[colors.bright]
+black = "#2D3C4F"
+red = "#A72E0D"
+green = "#327870"
+yellow = "#E05A2A"        # Darker Orange
+blue = "#1A3F5E"
+magenta = "#6B4F6B"
+cyan = "#2D6B86"
+white = "#B0C0D0"
