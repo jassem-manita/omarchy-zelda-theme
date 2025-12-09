@@ -1,8 +1,8 @@
-hi Normal guibg=#0F1419 guifg=#A8C5D8
-hi Comment guifg=#6B5A73
-hi Constant guifg=#E6B450
-hi Identifier guifg=#3A7CA8
-hi Statement guifg=#E06B75
-hi PreProc guifg=#98C379
-hi Type guifg=#5A9BB8
-hi Special guifg=#5A9BB8
+hi Normal guibg=#0D1117 guifg=#C9D1D9
+hi Comment guifg=#6A737D
+hi Constant guifg=#F0A45D
+hi Identifier guifg=#58A6FF
+hi Statement guifg=#FF7B72
+hi PreProc guifg=#A5D6A7
+hi Type guifg=#79C0FF
+hi Special guifg=#79C0FF
