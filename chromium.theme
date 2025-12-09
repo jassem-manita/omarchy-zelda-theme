@@ -1,0 +1,14 @@
+# Zelda Theme for Chromium - Calm & Chill
+# Inspired by The Legend of Zelda
+
+{
+    "theme_frame": "#0F1419",
+    "theme_toolbar": "#1A252F",
+    "theme_tab_background": "#0F1419",
+    "theme_tab_background_inactive": "#1A252F",
+    "theme_tab_text": "#A8C5D8",
+    "theme_tab_text_inactive": "#5A9BB8",
+    "theme_ntp_background": "#0F1419",
+    "theme_ntp_text": "#A8C5D8",
+    "theme_button_background": "#5A9BB8"
+}

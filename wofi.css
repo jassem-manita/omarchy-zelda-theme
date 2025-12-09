@@ -1,0 +1,40 @@
+/* Zelda Theme for Wofi - Calm & Chill */
+/* Inspired by The Legend of Zelda */
+
+window {
+    background-color: #0F1419;
+    color: #A8C5D8;
+    border: 2px solid #5A9BB8;
+    border-radius: 5px;
+}
+
+#input {
+    background-color: #1A252F;
+    color: #A8C5D8;
+    border: 1px solid #5A9BB8;
+    padding: 5px;
+}
+
+#input:focus {
+    border-color: #3A7CA8;
+}
+
+#list {
+    background-color: #0F1419;
+    color: #A8C5D8;
+}
+
+#list > div {
+    padding: 5px;
+    border-bottom: 1px solid #1A252F;
+}
+
+#list > div:hover {
+    background-color: #5A9BB8;
+    color: #0F1419;
+}
+
+#list > div:active {
+    background-color: #3A7CA8;
+    color: #0F1419;
+}
